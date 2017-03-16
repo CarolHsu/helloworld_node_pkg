@@ -1,6 +1,6 @@
 {
   "name": "my-first-node-js-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "my first node.js package for fun",
   "main": "index.js",
   "scripts": {
