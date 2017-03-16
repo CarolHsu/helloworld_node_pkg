@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CarolHsu/helloworld_node_pkg/issues"
   },
-  "homepage": "https://github.com/CarolHsu/helloworld_node_pkg#readme"
+  "homepage": "https://github.com/CarolHsu/helloworld_node_pkg#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
 }
