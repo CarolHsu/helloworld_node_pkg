@@ -1,0 +1,19 @@
+{
+  "name": "my-first-node-js-package",
+  "version": "1.0.0",
+  "description": "my first node.js package for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolHsu/helloworld_node_pkg.git"
+  },
+  "author": "shesee <sheseee@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolHsu/helloworld_node_pkg/issues"
+  },
+  "homepage": "https://github.com/CarolHsu/helloworld_node_pkg#readme"
+}
